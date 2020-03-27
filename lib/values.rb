@@ -20,7 +20,7 @@ end
 get_the_min(groceries)
 
 def get_the_keys(groceries)
-  goceries.keys
+  groceries.keys
 end
 
 get_the_keys
