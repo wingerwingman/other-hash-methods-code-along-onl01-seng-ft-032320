@@ -16,7 +16,7 @@ get_the_values(groceries)
 def get_the_min(groceries)
   groceries.each do |data|
     data.min
-    
+    binding.pry
   end
 end
 
