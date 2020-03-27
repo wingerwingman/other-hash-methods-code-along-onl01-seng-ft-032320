@@ -14,7 +14,7 @@ end
 get_the_values(groceries)
 
 def get_the_min(groceries)
-  groceries.min
+  groceries.data.min
 end
 
 get_the_min(groceries)
