@@ -11,3 +11,4 @@ groceries = {
 def get_the_values(groceries)
   groceries.keys
 end
+get_the_values(groceries)
