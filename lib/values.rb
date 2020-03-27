@@ -17,6 +17,7 @@ def get_the_min(groceries)
   groceries.each do |data|
   data.min
 end
+end
 
 get_the_min(groceries)
 
