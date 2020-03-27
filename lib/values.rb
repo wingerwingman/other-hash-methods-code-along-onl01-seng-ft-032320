@@ -9,7 +9,7 @@ groceries = {
 }
 
 def get_the_values(groceries)
-  groceries.keys
+  groceries.values
 end
 get_the_values(groceries)
 
@@ -18,3 +18,9 @@ def get_the_min(groceries)
 end
 
 get_the_min(groceries)
+
+def get_the_keys(groceries)
+  goceries.keys
+end
+
+get_the_keys
